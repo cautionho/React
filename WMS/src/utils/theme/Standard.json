@@ -1,0 +1,77 @@
+{
+  "color-text-base": "#2B2B2B",
+  "color-text-base-inverse": "#FFFFFF",
+  "color-text-secondary": "#808080",
+  "color-text-placeholder": "#AAAAAA",
+  "color-text-disabled": "#AAAAAA",
+  "color-text-caption": "#808080",
+  "color-text-paragraph": "#2B2B2B",
+  "color-link": "#835B38",
+
+  "fill-base": "#FFFFF",
+  "fill-body": "#F2F2F2",
+  "fill-tap": "#AAAAAA",
+  "fill-disabled": "#AAAAAA",
+  "fill-mask": "rgba(0,0,0,.4)",
+  "color-icon-base": "#CCCCCC",
+  "fill-grey": "#F2F2F2",
+
+  "opacity-disabled": "0.3",
+
+  "brand-primary": "#2B3858",
+  "brand-primary-tap": "#835B38",
+  "brand-success": "#2ECC38",
+  "brand-warning": "#FFA839",
+  "brand-error": "#FF3E39",
+  "brand-important": "#835B38",
+  "brand-wait": "#2B3858",
+
+  "border-color-base": "#CCCCCC",
+
+  "font-size-caption-sm": "24px",
+  "font-size-base": "28px",
+  "font-size-subhead": "30px",
+  "font-size-caption": "32px",
+  "font-size-heading": "36px",
+
+  "radius-xs": "2px",
+  "radius-sm": "4px",
+  "radius-md": "6px",
+  "radius-lg": "8px",
+  "radius-circle": "50%",
+
+  "border-width-sm": "1px",
+  "border-width-md": "1px",
+  "border-width-lg": "2px",
+
+  "h-spacing-sm": "4px",
+  "h-spacing-md": "8px",
+  "h-spacing-lg": "16px",
+
+  "v-spacing-xs": "2px",
+  "v-spacing-sm": "4px",
+  "v-spacing-md": "8px",
+  "v-spacing-lg": "16px",
+  "v-spacing-xl": "24px",
+
+  "line-height-base": "1",
+  "line-height-paragraph": "1.5",
+
+  "icon-size-xxs": "20px",
+  "icon-size-xs": "22px",
+  "icon-size-sm": "24px",
+  "icon-size-md": "28px",
+  "icon-size-lg": "30px",
+
+  "ease-in-out-quint": "cubic-bezier(.86, 0, .07, 1)",
+
+  "button-height": "66px",
+  "button-font-size": "28px",
+
+  "button-height-sm": "60px",
+  "button-font-size-sm": "24px",
+
+  "warning-button-fill": "#835B38",
+  "warning-button-fill-tap": "#FFA839"
+
+}

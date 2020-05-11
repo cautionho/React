@@ -1,0 +1,48 @@
+.Login-Container {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+
+  &>.Login-Bg{
+    height: 50vh;
+    width: 100%;
+    background: linear-gradient(to left top, #2B3858, #9c7c60);
+    padding-top: calc((50vh - 300px) / 2);
+    text-align: center;
+    box-sizing: border-box;
+
+    &>.Logo{
+      width: 400px;
+    }
+  }
+
+  &>.Login-Form {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    top: 0;
+    left: calc((100% - 600px) / 2);
+    margin-top: calc((100vh - 400px) / 2);
+    background-color: #FFF;
+    border-radius: 4px;
+    box-shadow: 2px 2px 12px #778094;
+    padding: 60px;
+    box-sizing: border-box;
+  }
+}
+
+.am-list-item{
+  margin-bottom: 60px;
+}
+
+.am-list-item .am-input-control input{
+  font-size: 28px;
+}
+
+.am-button{
+  font-size: 28px;
+  width: 200px;
+  &:nth-of-type(1){
+    margin-right: 80px;
+  }
+}

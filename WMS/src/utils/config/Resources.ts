@@ -1,0 +1,1 @@
+export default ["PdaSign", "PdaInStorage", "PdaPickUp", "PdaTransferPack", "PdaSowing", "PdaMove", "PdaOutStorage", "PdaReplenishOut", "PdaCheckOut", "PdaCheckDemand", "PdaWeighting"]
